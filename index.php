@@ -9,7 +9,7 @@ include "init.php";
       <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
       <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
     </div>
-    <div class="carousel-inner">
+    <div class="carousel-inner item1">
       <div class="carousel-item active">
         <div class="overlay"></div>
         <img src="uploads/header1.jpg" class="d-block w-100" alt="...">
@@ -21,7 +21,7 @@ include "init.php";
       </div>
       <div class="carousel-item">
         <div class="overlay"></div>
-        <img src="uploads/header2.jpg" class="d-block w-100" alt="...">
+      <img src="uploads/header2.jpg" class="d-block w-100" alt="..."> 
         <div class="carousel-caption d-md-block">
           <h5 class="animated fadeInUp"> <?php echo $lang['the_light'] ?> </h5>
           <p class="animated fadeInUp"> <?php echo $lang['index_p2'] ?> </p>
