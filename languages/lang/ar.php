@@ -54,7 +54,7 @@ $lang = array(
 
     // END ABOUT US PAGE 
     // START SERVICES
-    "services_p1" => '  نحن خبراء في العديد من المجالات  ',
+    "services_p1" => '  الخدمات العقارية  ',
 
     // END SERVICES
     // START CONTACT US

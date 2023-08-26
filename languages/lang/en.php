@@ -57,7 +57,7 @@ $lang = array(
 
 	// END ABOUT US PAGE 
 	// START SERVICES
-	"services_p1" => '  We Are Experts In Many Fields ',
+	"services_p1" => ' Real estate services  ',
 
 	// END SERVICES
 	// START CONTACT US
