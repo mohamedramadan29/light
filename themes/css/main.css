@@ -439,3 +439,21 @@ START NAVBAR
         margin-top: 30px;
     }
 }
+
+
+.whatsapp_bottom {
+    position: fixed;
+    bottom: 20px;
+    right: 15px;
+    background-color: #25D366;
+    padding: 10px;
+    border-radius: 28px;
+    width: 150px;
+    text-align: center;
+    z-index: 9999999;
+}
+
+.whatsapp_bottom a {
+    text-decoration: none;
+    color: #fff
+}

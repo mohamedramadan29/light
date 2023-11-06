@@ -31,6 +31,12 @@
           <li> <a href="https://www.linkedin.com/feed/"> <i class="fa fa-linkedin"></i> </a> </li>
           <li> <a href="https://instagram.com/marwa36912?igshid=ZDdkNTZiNTM="> <i class="fa fa-instagram"></i> </a> </li>
           <li> <a href="mailto://info@thelight.host"> <i class="fa fa-envelope"></i> </a> </li>
+          <li> <a href="https://www.facebook.com/profile.php?id=100089609746453"> <i class="fa fa-facebook"></i> </a></li>
+          <li> <a href="https://www.tiktok.com/@user7982152553305?_t=8f9kee0pl8C&_r=1"> <img style="    width: 23px;
+    position: relative;
+    top: -2px;" src="uploads/tiktok.png" alt=""> </a></li>
+          <li> <a href="https://youtube.com/@TheLight-yv9ze?si=kF2OTPrdPUbwOsso"> <i class="fa fa-youtube"></i> </a></li>
+
         </ul>
       </ul>
     </div>
